@@ -1,0 +1,11 @@
+{
+  "title": "Kubectl Grundlagen",
+  "description": "Zeigt den grundsätzlichen Umgang mit der K8s CLI kubectl.",
+  "courses": [
+    {
+      "course_id": "api-by-cli2",
+      "title": "K8s API mittels kubectl",
+      "description": "Interagiere mit der Kubernetes API mittels kubectl."
+    }
+  ]
+}
